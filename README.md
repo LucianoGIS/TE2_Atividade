@@ -15,4 +15,4 @@ Como parte de um trabalho acadêmico, está sendo desenvolvida uma API para regi
 
 ## DER - Diagrama de Entidade e Relacionamento
 
-![DER - Orçamento](URL_da_Imagem)
+![DER - Orçamento](https://raw.githubusercontent.com/JudahAragao/eureka_atv_TE_2/main/ext_projeto/img/DER%20-%20Orcamento.jpg)
