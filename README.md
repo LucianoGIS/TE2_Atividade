@@ -2,10 +2,14 @@
 
 ## Membros do Grupo
 
-- [Judah Aragão](https://github.com/judaharagao) ![Avatar](https://github.com/judaharagao.png)
-- [Luciano Lima](https://github.com/lucianoGIS) ![Avatar](https://github.com/lucianoGIS.png)
-- [Marcio Wiltshire](https://github.com/marcioscw) ![Avatar](https://github.com/marcioscw.png)
+- [Judah Aragão](https://github.com/judaharagao) 
+  <img src="https://github.com/judaharagao.png" width="100" height="100" style="border-radius: 50%;">
+- [Luciano Lima](https://github.com/lucianoGIS) 
+  <img src="https://github.com/lucianoGIS.png" width="100" height="100" style="border-radius: 50%;">
+- [Marcio Wiltshire](https://github.com/marcioscw) 
+  <img src="https://github.com/marcioscw.png" width="100" height="100" style="border-radius: 50%;">
 <!-- Add more contributors here -->
+
 
 
 ## Descrição:
