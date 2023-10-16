@@ -2,12 +2,11 @@
 
 ## Membros do Grupo
 
-#### - Judah Aragão
-- Github: judaharagao
-#### - Luciano Lima
-- Github: lucianoGIS
-#### - Marcio Wiltshire
-- Github: marcioscw
+- [Judah Aragão](https://github.com/judaharagao) ![Avatar](https://github.com/judaharagao.png)
+- [Luciano Lima](https://github.com/lucianoGIS) ![Avatar](https://github.com/lucianoGIS.png)
+- [Marcio Wiltshire](https://github.com/marcioscw) ![Avatar](https://github.com/marcioscw.png)
+<!-- Add more contributors here -->
+
 
 ## Descrição:
 
