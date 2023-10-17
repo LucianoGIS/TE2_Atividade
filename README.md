@@ -2,8 +2,9 @@
 
 ## Membros do Grupo
 
-| [<img src="https://github.com/judaharagao.png" width="60" style="border-radius: 50%;">](https://github.com/judaharagao) <br> Judah Aragão | [<img src="https://github.com/lucianoGIS.png" width="60" style="border-radius: 50%;">](https://github.com/lucianoGIS) <br> Luciano Lima | [<img src="https://github.com/marcioscw.png" width="60" style="border-radius: 50%;">](https://github.com/marcioscw) <br> Marcio Wiltshire |
+| | | |
 | --- | --- | --- |
+| [<img src="https://github.com/judaharagao.png" width="60" style="border-radius: 50%;">](https://github.com/judaharagao) | [<img src="https://github.com/lucianoGIS.png" width="60" style="border-radius: 50%;">](https://github.com/lucianoGIS) | [<img src="https://github.com/marcioscw.png" width="60" style="border-radius: 50%;">](https://github.com/marcioscw)|
 
 
 
