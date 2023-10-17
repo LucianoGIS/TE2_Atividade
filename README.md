@@ -1,31 +1,9 @@
 # Eureka_atv_TE_2
 
 ## Membros do Grupo
-<table>
-  <tr>
-    <td style="border: none; text-align: center;">
-      <a href="https://github.com/judaharagao">
-        <img src="https://github.com/judaharagao.png" width="60" style="border-radius: 50%;">
-      </a>
-      <br>
-      <a href="https://github.com/judaharagao">Judah Aragão</a>
-    </td>
-    <td style="border: none; text-align: center;">
-      <a href="https://github.com/lucianoGIS">
-        <img src="https://github.com/lucianoGIS.png" width="60" style="border-radius: 50%;">
-      </a>
-      <br>
-      <a href="https://github.com/lucianoGIS">Luciano Lima</a>
-    </td>
-    <td style="border: none; text-align: center;">
-      <a href="https://github.com/marcioscw">
-        <img src="https://github.com/marcioscw.png" width="60" style="border-radius: 50%;">
-      </a>
-      <br>
-      <a href="https://github.com/marcioscw">Marcio Wiltshire</a>
-    </td>
-  </tr>
-</table>
+
+| [<img src="https://github.com/judaharagao.png" width="60" style="border-radius: 50%;">](https://github.com/judaharagao) <br> Judah Aragão | [<img src="https://github.com/lucianoGIS.png" width="60" style="border-radius: 50%;">](https://github.com/lucianoGIS) <br> Luciano Lima | [<img src="https://github.com/marcioscw.png" width="60" style="border-radius: 50%;">](https://github.com/marcioscw) <br> Marcio Wiltshire |
+| --- | --- | --- |
 
 
 
