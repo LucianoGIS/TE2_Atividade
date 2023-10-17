@@ -2,31 +2,11 @@
 
 ## Membros do Grupo
 
-<div align="center">
-  <a href="https://github.com/judaharagao">
-    <img src="https://github.com/judaharagao.png" width="100" style="border-radius: 50px;">
-    <br>
-    <sub>Judah Aragão</sub>
-    <br>
-    GitHub: [judaharagao](https://github.com/judaharagao)
-  </a>
-
-  <a href="https://github.com/lucianoGIS">
-    <img src="https://github.com/lucianoGIS.png" width="100" style="border-radius: 50px;">
-    <br>
-    <sub>Luciano Lima</sub>
-    <br>
-    GitHub: [lucianoGIS](https://github.com/lucianoGIS)
-  </a>
-
-  <a href="https://github.com/marcioscw">
-    <img src="https://github.com/marcioscw.png" width="100" style="border-radius: 50px;">
-    <br>
-    <sub>Marcio Wiltshire</sub>
-    <br>
-    GitHub: [marcioscw](https://github.com/marcioscw)
-  </a>
-</div>
+| Contributor | GitHub |
+| --- | --- |
+| [<img src="https://github.com/judaharagao.png" width="60" style="border-radius: 50%;">](https://github.com/judaharagao) | [Judah Aragão](https://github.com/judaharagao) |
+| [<img src="https://github.com/lucianoGIS.png" width="60" style="border-radius: 50%;">](https://github.com/lucianoGIS) | [Luciano Lima](https://github.com/lucianoGIS) |
+| [<img src="https://github.com/marcioscw.png" width="60" style="border-radius: 50%;">](https://github.com/marcioscw) | [Marcio Wiltshire](https://github.com/marcioscw) |
 
 
 <!-- Add more contributors here -->
