@@ -2,7 +2,7 @@
 
 ## Membros do Grupo
 
-[<img src="https://github.com/judaharagao.png" width="60" style="border-radius: 30px;">](https://github.com/judaharagao) [<img src="https://github.com/lucianoGIS.png" width="60" style="border-radius: 30px;">](https://github.com/lucianoGIS) [<img src="https://github.com/marcioscw.png" width="60" style="border-radius: 30px;">](https://github.com/marcioscw)
+[<img src="https://github.com/ThiagoWaldrich.png" width="60" style="border-radius: 30px;">](https://github.com/ThiagoWaldrich) [<img src="https://github.com/lucianoGIS.png" width="60" style="border-radius: 30px;">](https://github.com/lucianoGIS) [<img src="https://github.com/marcioscw.png" width="60" style="border-radius: 30px;">](https://github.com/marcioscw)
 
 
 
